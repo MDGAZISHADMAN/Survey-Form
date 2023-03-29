@@ -1,0 +1,272 @@
+.left-arrow {
+    margin-bottom: 2vh;
+    margin-right: 1vw;
+
+}
+
+.question-section {
+    margin-top: 3vh;
+    padding-top: 1vh;
+    margin-left: 6vw;
+    height: 28vh;
+    width: 86vw;
+    background: transparent url('../assets/rectangle-box.svg') 0% 0% no-repeat padding-box;
+    border-radius: 8px 8px 0px 0px;
+    opacity: 1;
+}
+
+.btn-section {
+    margin-top: 4vh;
+}
+
+.add-question-btn {
+    color: #FFFFFF;
+    background: #8C95AF 0% 0% no-repeat padding-box;
+    border-radius: 4px;
+    opacity: 100%;
+    height: 5vh;
+    margin-left: 45vw;
+    border: none;
+  
+
+}
+
+#text {
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+.gear {
+    float: right;
+    margin-right: 1vw;
+    margin-top: 1vh;
+
+}
+
+.question-title {
+    margin-left: 1vw;
+    margin-top: 2vh;
+    font-family: 'Open Sans', sans-serif;
+    color: #2D2D2E;
+    opacity: 100%;
+
+}
+
+.question {
+    margin-left: 1vw;
+
+}
+
+.question-input {
+    margin-left: 4vw;
+    margin-top: 1vh;
+    height: 4vh;
+    width: 40vw;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #CCCCCC;
+    border-radius: 4px;
+    opacity: 100%;
+}
+
+.question-input::placeholder {
+    font-family: 'Open Sans', sans-serif;
+    color: #878889;
+    opacity: 50%;
+}
+
+.radio-btns { 
+    /* border: 1px solid black; */
+    margin-left: 4vw;
+    margin-top: 3vh;
+}
+
+
+.radio-input { 
+    margin-left: 1vw;
+    background-color: #F4F8FD;
+}
+.radio-btns { 
+    /* border: 1px solid black; */
+    margin-left: 4vw;
+    margin-top: 3vh;
+}
+
+
+.radio-input { 
+    margin-left: 1vw;
+    background-color: #F4F8FD;
+}
+
+.preview{
+    padding-left: 10vw;
+    padding-top: 5vh;
+
+}
+.allques{
+    padding-top: 2vh;
+}
+.que{
+    color: #3286DD;
+    font: normal normal 600 18px/24px Open Sans;
+}
+.val{
+    text-align: left;
+font: normal normal 600 14px/20px Open Sans;
+border-bottom: 1px solid rgb(228, 207, 207);
+margin-right: 20vw;
+}
+/* -------------------------------------------------- */
+.mainThemContainer{
+    width: 800px;
+    height: 450px;
+    border: 1px solid rgb(228, 219, 219);
+    position: relative;
+    left: 300px;
+    top: 100px;
+border-radius: 20px;
+background-color: rgb(250, 250, 247);
+  text-align: center;
+}
+.themsContainer{
+    width: 800px;
+    height: 50px;
+    border: 1px solid rgb(155, 154, 154);
+    border-right:none ;
+    border-left: none;
+    border-top: none;
+
+}.mainfield{
+    display: flex;
+    grid-template-columns: auto auto auto;
+}
+.themsheader{
+    float: left;
+    margin-left: 20px;
+    margin-top: 20px;
+    color: dimgray;
+}
+.lableThems{
+    margin-right: 650px;
+
+}
+.Thems{
+    margin-right: 340px;
+    width: 360px;
+
+}
+.themsinput1{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    margin-top: 30px;
+    position: relative;
+    left: 10px;
+}
+.themsinput2{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    margin-top: 30px;
+}
+.themsinput3{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    margin-top: 30px;
+}
+
+.Thems1{
+    margin-right: 120px;
+    width: 200px;
+}
+.ThemeN{
+    margin-right: 110px;
+}
+.Themelable1{
+    margin-right: 110px;
+    padding-right: 8px;
+    margin-right: 70px;
+}.Themelable2{
+    margin-right: 115px;
+    padding-right: 8px;
+}
+.Thems2{
+    width: 200px;
+    margin-left: 30px;
+}
+.Themelable0{
+    padding-left: 11px;
+    margin-right: 90px;
+  
+}
+.btncs{
+    margin-top: 50px;
+    border-top: 1px solid rgb(155, 154, 154);
+    padding-top: 30px;
+    margin-left: 20px;
+    
+
+}
+
+.themsinput3{
+    margin-right:40px;
+}
+.Thems01{
+    margin-left: 38px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 0px;
+    margin-bottom: 0px;
+    width: 200px;
+}
+.Thems02{
+    margin-left: 72px;
+    width: 200px;
+}
+.Thems03{
+    margin-right: 45px;
+    margin-left: 66px;
+    width: 200px;
+}
+.Thems03{
+    margin-left: 42px;
+}
+
+.btns{
+    margin-left: 25px;
+    background-color: dodgerblue;
+    
+}
+button{
+    width: 80px;
+}
+.Themscl1{
+    width: 200px;
+    margin-left: 0px;
+    margin-right: 130px;
+}
+.Thems10{
+    width: 200px;
+    margin-left: 15px;
+margin-right: 0px;
+}
+.Themelable1{
+    margin-right: 61px;
+}
+.Themelable13{
+    margin-right: 130px;
+}
+.Themelable22{
+    margin-right: 85px;
+}
+.Thems23{
+    width: 200px;
+    margin-right: 17px;
+    margin-left: 0px;
+  }
+  .Themelable3{
+    margin-right:150px;
+}
+.Themelable32{
+    margin-right:290px;
+}
+.Themelable12{
+    margin-right: 45px;
+}
